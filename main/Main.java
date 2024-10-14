@@ -1,8 +1,8 @@
 package main;
 
-import service.WordMainFrame;
-import dao_inf.WordDAO;
 import dao_inf.DBdao;
+import dao_inf.WordDAO;
+import service.WordMainFrame;
 
 public class Main {
 
