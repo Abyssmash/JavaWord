@@ -90,7 +90,7 @@ public class WordMainFrame extends JFrame {
 		center_3.setLayout(new BorderLayout());
 		center_3.add(c5,"North");
 		center_3.add(c5btn,"South");
-		center_3.add(c5c,"Center");		ㅍㅍㅍㅍㅍㅍ
+		center_3.add(c5c,"Center");		
 		
 		this.setVisible(true);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
